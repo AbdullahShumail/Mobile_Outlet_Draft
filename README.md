@@ -1,48 +1,40 @@
-📱 Mobile Outlet System
-🚀 Introduction
-The Mobile Outlet System is a C++-based application designed to help users explore various iPhone models, view detailed specifications, and search for specific devices. The system offers an interactive menu-driven approach for a seamless user experience.
+# 📱 Mobile Outlet System  
 
-🎯 Features
-📋 View iPhone List
+## 🚀 Introduction  
+The **Mobile Outlet System** is a C++-based application designed to help users explore various iPhone models, view detailed specifications, and search for specific devices. The system offers an interactive menu-driven approach for a seamless user experience.  
 
-Browse through a structured list of available iPhone models.
+## 🎯 Features  
+1. **📋 View iPhone List**  
+   - Browse through a structured list of available iPhone models.  
 
-🔍 Search Functionality
+2. **🔍 Search Functionality**  
+   - Search for iPhone models using keywords for quick access.  
 
-Search for iPhone models using keywords for quick access.
+3. **📊 Phone Specifications**  
+   - Display detailed specs including CPU, GPU, camera, memory, display, and battery life.  
 
-📊 Phone Specifications
+4. **📞 Contact Information**  
+   - Provides a section for customer support details.  
 
-Display detailed specs including CPU, GPU, camera, memory, display, and battery life.
+5. **ℹ️ About Section**  
+   - Learn about the **Advanced Mobile Store (AMS)** and its features.  
 
-📞 Contact Information
+## 🛠 Implementation Details  
+- **C++ OOP Approach**: Implements **structs** for phone specifications and **classes** for menu handling.  
+- **File Handling**: Reads iPhone specifications from `iphone_specs.txt`.  
+- **User Interaction**: Offers a **menu-driven interface** for navigating options.  
+- **Data Processing**: Includes functions for **string manipulation** and **case-insensitive searches**.  
 
-Provides a section for customer support details.
+## 📌 Expected Outcomes  
+- A **user-friendly** system for browsing iPhone models.  
+- **Fast and efficient search functionality** for specific devices.  
+- An interactive **menu-based console interface**.  
 
-ℹ️ About Section
+## 🎤 Conclusion  
+This system enhances the shopping experience by providing detailed phone specifications in an organized and accessible manner. 🚀📱  
 
-Learn about the Advanced Mobile Store (AMS) and its features.
+---
 
-🛠 Implementation Details
-C++ OOP Approach: Implements structs for phone specifications and classes for menu handling.
-
-File Handling: Reads iPhone specifications from iphone_specs.txt.
-
-User Interaction: Offers a menu-driven interface for navigating options.
-
-Data Processing: Includes functions for string manipulation and case-insensitive searches.
-
-📌 Expected Outcomes
-A user-friendly system for browsing iPhone models.
-
-Fast and efficient search functionality for specific devices.
-
-An interactive menu-based console interface.
-
-🎤 Conclusion
-This system enhances the shopping experience by providing detailed phone specifications in an organized and accessible manner. 🚀📱
-
-Console Output:
 
 ![image](https://github.com/user-attachments/assets/eba23449-afea-4c54-ae92-25951817a9ca)
 ![image](https://github.com/user-attachments/assets/b09a8cd6-1239-42a0-b463-1a5826f0d28e)
