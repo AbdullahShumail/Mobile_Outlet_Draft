@@ -1,4 +1,4 @@
-# 📱 Mobile Outlet System  
+# 📱 Mobile Outlet Draft  
 
 ## 🚀 Introduction  
 The **Mobile Outlet System** is a C++-based application designed to help users explore various iPhone models, view detailed specifications, and search for specific devices. The system offers an interactive menu-driven approach for a seamless user experience.  
